@@ -1,25 +1,51 @@
-![Alt text](header.jpg?raw=true "header")
+# Hello, world! 🌍🚀  
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nkulieshova/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nataliia.kulieshova@gmail.com)
+```bash
+> Welcome to Nataliia Kulieshova's GitHub!  
+> Initializing... 🔍  
+> Running "cat about_me.txt"... ✅
+```
 
-## ✨ Technologies I've worked with ✨
+I’m **Nataliia Kulieshova**, a passionate coder, machine-learning enthusiast, and proud **Ukrainian** 🇺🇦. Currently leveling up as a **sophomore at UC Berkeley** 🎓, I’m diving deep into the worlds of **Computer Science** and **Cognitive Science**.  
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-<your-color>?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-<your-color>?logo=java&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-<your-color>?logo=c&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-<your-color>?logo=javascript&logoColor=white&style=flat)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-<your-color>?logo=html5&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-<your-color>?logo=php&logoColor=white&style=flat)
+### 💻 Skills Unlocked:
+- **Languages:** `Python`, `Java`, `C`, `JavaScript`, `HTML/CSS`, `PHP`  
+- **Technologies:** `NumPy`, `Pandas`, `OpenCV`, `Scikit-Learn`, `TensorFlow`, `SQL`, `Grafana`, `LangChain`, `OpenAI GPT-4 API`, `OpenMP`, `Git`  
+- **Specializations:** Machine Learning 🤖, Computational Neuroscience 🧠, Backend development 💻  
 
-### Technologies
-![NumPy](https://img.shields.io/badge/-NumPy-<your-color>?logo=numpy&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-<your-color>?logo=pandas&logoColor=white&style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-<your-color>?logo=opencv&logoColor=white&style=flat)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-<your-color>?logo=scikit-learn&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-<your-color>?logo=postgresql&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-<your-color>?logo=tensorflow&logoColor=white&style=flat)
-![Grafana](https://img.shields.io/badge/-Grafana-<your-color>?logo=grafana&logoColor=white&style=flat)
-![LangChain](https://img.shields.io/badge/-LangChain-<your-color>?logo=chain&logoColor=white&style=flat)
+---
 
+## 🚀 What I've Been Up To:
+```bash
+> Running "cat experience.log"...
+```
+- **🚗 SWE Intern @ Uber:** Developed security functionality for the search platform built on Apache Lucene, impacting over 50 customer teams across various Uber services, including Health, Eats, and Fulfillment.
+- **🧠 MLE Intern @ Brightside Health:** Developed a structured, queryable knowledge graph for evidence-based treatment plans and clinical research.
+- **🇺🇦 AI Intern @ Ministry of Digital Transformation of Ukraine:** Conducted research on machine learning methodologies to analyze and interpret big data in the public sector, optimizing decision-making processes within the Ukrainian government
+- **🌏 Global Impact Projects:** Worked on initiatives funded by **UNICEF**, **USAID**, and the **Japanese government**, creating tech solutions for providing accessibility for deaf and hard of hearing communities in public places.  
+
+---
+
+## 🔭 Current Quests:
+- 🤖 Experimenting with **AI/ML** trends and building smarter systems.
+- 🧠 Expanding my arsenal of **computational neuroscience and biology** and exploring their real-world applications.
+
+---
+
+## 🎯 Mission Control:
+My ultimate mission? **Write clean, impactful code** that makes a difference. I’m here to build tech that **drives positive change** and takes humanity one step closer to a better future. 🌟  
+
+---
+
+## 📡 Contact Protocols:
+```bash
+> Connecting to Nataliia's social APIs...
+```
+- 💼 [LinkedIn](https://linkedin.com/in/nkulieshova)  
+- 📫 nataliia.kulieshova@berkeley.edu
+- 🌐 Portfolio *(Coming Soon!)*  
+
+---
+```bash
+> echo "System.out.println('Let’s build something awesome together!')"  
+```
