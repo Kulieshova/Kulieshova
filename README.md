@@ -26,24 +26,12 @@ I’m **Nataliia Kulieshova**, a passionate coder, machine-learning enthusiast, 
 
 ---
 
-## 🔭 Current Quests:
-- 🤖 Experimenting with **AI/ML** trends and building smarter systems.
-- 🧠 Expanding my arsenal of **computational neuroscience and biology** and exploring their real-world applications.
-
----
-
-## 🎯 Mission Control:
-My ultimate mission? **Write clean, impactful code** that makes a difference. I’m here to build tech that **drives positive change** and takes humanity one step closer to a better future. 🌟  
-
----
-
 ## 📡 Contact Protocols:
 ```bash
 > Connecting to Nataliia's social APIs...
 ```
 - 💼 [LinkedIn](https://linkedin.com/in/nkulieshova)  
 - 📫 nataliia.kulieshova@berkeley.edu
-- 🌐 Portfolio *(Coming Soon!)*  
 
 ---
 ```bash
