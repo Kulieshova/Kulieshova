@@ -1,4 +1,4 @@
-# Hello, world! 🌍🚀  
+# Hello world! 🌍🚀  
 
 ```bash
 > Welcome to Nataliia Kulieshova's GitHub!  
