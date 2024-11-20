@@ -51,5 +51,5 @@ I’m **Nataliia Kulieshova**, a passionate coder, machine-learning enthusiast, 
 
 ---
 ```bash
-> echo "System.out.println('Let’s build something awesome together!')"  
+> echo "System.out.println('Let’s build something awesome together! ☺️')"  
 ```
