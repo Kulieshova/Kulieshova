@@ -19,7 +19,8 @@ I’m **Nataliia Kulieshova**, a passionate coder, machine-learning enthusiast, 
 ```bash
 > Running "cat experience.log"...
 ```
-- **🚗 SWE Intern @ Uber:** Developed security functionality for the search platform built on Apache Lucene, impacting over 50 customer teams across various Uber services, including Health, Eats, and Fulfillment.
+- **🚗 SWE Intern @ Uber:** Developed security functionality for the search platform, impacting over 50 customer teams across various Uber services
+  
 - **🧠 MLE Intern @ Brightside Health:** Developed a structured, queryable knowledge graph for evidence-based treatment plans and clinical research.
 - **🇺🇦 AI Intern @ Ministry of Digital Transformation of Ukraine:** Conducted research on machine learning methodologies to analyze and interpret big data in the public sector, optimizing decision-making processes within the Ukrainian government
 - **🌏 Global Impact Projects:** Worked on initiatives funded by **UNICEF**, **USAID**, and the **Japanese government**, creating tech solutions for providing accessibility for deaf and hard of hearing communities in public places.  
