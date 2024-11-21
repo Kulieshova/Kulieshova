@@ -6,7 +6,7 @@
 > Running "cat about_me.txt"... ✅
 ```
 
-I’m **Nataliia Kulieshova**, a passionate coder, machine-learning enthusiast, and proud **Ukrainian** 🇺🇦. Currently leveling up as a **sophomore at UC Berkeley** 🎓, I’m diving deep into the worlds of **Computer Science** and **Cognitive Science**.  
+My name is **Nataliia**. I am a sophomore at UC Berkeley, double-majoring in Computer Science and Cognitive Science (Go Bears! 🐻). I am passionate about machine learning, computational neuroscience, brain-computer interfaces, and all the other nerdy things :). I am passionate about using technology to make our world more inclusive to people with different cognitive and neurological disorders 🧠✨
 
 ### 💻 Skills Unlocked:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -30,15 +30,14 @@ I’m **Nataliia Kulieshova**, a passionate coder, machine-learning enthusiast, 
 
 ---
 
-## 🚀 What I've Been Up To:
+## 🚀 My Experience So Far:
 ```bash
 > Running "cat experience.log"...
 ```
 - **🚗 SWE Intern @ Uber:** Developed security functionality for the search platform, impacting over 50 customer teams across various Uber services
-  
 - **🧠 MLE Intern @ Brightside Health:** Developed a structured, queryable knowledge graph for evidence-based treatment plans and clinical research.
 - **🇺🇦 AI Intern @ Ministry of Digital Transformation of Ukraine:** Conducted research on machine learning methodologies to analyze and interpret big data in the public sector, optimizing decision-making processes within the Ukrainian government
-- **🌏 Global Impact Projects:** Worked on initiatives funded by **UNICEF**, **USAID**, and the **Japanese government**, creating tech solutions for providing accessibility for deaf and hard of hearing communities in public places.  
+- **🌏 Global Impact Projects:** Led initiatives funded by **UNICEF**, **USAID**, and the **Japanese government**, creating tech solutions for providing accessibility for deaf and hard of hearing communities in public places.  
 
 ---
 
