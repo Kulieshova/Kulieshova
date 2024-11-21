@@ -6,7 +6,7 @@
 > Running "cat about_me.txt"... ✅
 ```
 
-My name is **Nataliia**. I am a sophomore at UC Berkeley, double-majoring in Computer Science and Cognitive Science (Go Bears! 🐻). I am passionate about machine learning, computational neuroscience, brain-computer interfaces, and all the other nerdy things :). I am passionate about using technology to make our world more inclusive to people with different cognitive and neurological disorders 🧠✨
+My name is **Nataliia**. I am a sophomore at UC Berkeley, double-majoring in Computer Science and Cognitive Science (Go Bears! 🐻). I am passionate about machine learning, computational neuroscience, brain-computer interfaces, and all the other nerdy things. I am excited about using technology to make our world more inclusive to people with different cognitive and neurological disorders 🧠✨
 
 ### 💻 Skills Unlocked:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
