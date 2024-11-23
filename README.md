@@ -50,5 +50,5 @@ My name is **Nataliia**. I am a sophomore at UC Berkeley, double-majoring in Com
 
 ---
 ```bash
-> echo "System.out.println('Let’s build something awesome together! ☺️')"  
+> echo "Let’s build something awesome together! ☺️"  
 ```
