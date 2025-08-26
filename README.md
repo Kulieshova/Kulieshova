@@ -6,7 +6,7 @@
 > Running "cat about_me.txt"... ✅
 ```
 
-My name is **Nataliia**. I am a sophomore at UC Berkeley, double-majoring in Computer Science and Cognitive Science (Go Bears! 🐻). I am passionate about machine learning, computational neuroscience, brain-computer interfaces, and all the other nerdy things. I am excited about using technology to make our world more inclusive to people with different cognitive and neurological abilities 🧠✨. In my free time, you'll find me either reading, running, baking, or writing for my STEM blog. Do you want to connect further? Shoot me an email!
+My name is **Nataliia**. I am a junior at UC Berkeley, double-majoring in Computer Science and Cognitive Science (Go Bears! 🐻). I am passionate about machine learning, computational neuroscience, brain-computer interfaces, and all the other nerdy things. I am excited about using technology to make our world more inclusive to people with different cognitive and neurological abilities 🧠✨. In my free time, you'll find me either reading, swimming, running, baking, or writing for my STEM blog. Do you want to connect further? Shoot me an email!
 
 ### 💻 Skills Unlocked:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -36,7 +36,8 @@ My name is **Nataliia**. I am a sophomore at UC Berkeley, double-majoring in Com
 ```bash
 > Running "cat experience.log"...
 ```
-- **🚗 SWE Intern @ Uber:** Developed security functionality for the search platform, impacting over 50 customer teams across various Uber services
+- **🚗 SWE Intern @ Uber (summer 2025):** Designed and implemented an Apache Lucene-based KNN query optimization in Uber’s search platform; projected to reduce CPU-related costs by up to 40% (~$5.6M annually)
+- **🚗 SWE Intern @ Uber (summer 2024):** Developed security functionality for the search platform, impacting over 50 customer teams across various Uber services
 - **🧠 MLE Intern @ Brightside Health:** Developed a structured, queryable knowledge graph for evidence-based treatment plans and clinical research.
 - **🇺🇦 AI Intern @ Ministry of Digital Transformation of Ukraine:** Conducted research on machine learning methodologies to analyze and interpret big data in the public sector, optimizing decision-making processes within the Ukrainian government
 - **🌏 Global Impact Projects:** Led initiatives funded by **UNICEF**, **USAID**, and the **Japanese government**, creating tech solutions for providing accessibility for deaf and hard of hearing communities in public places.  
