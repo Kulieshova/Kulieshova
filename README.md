@@ -1,9 +1,10 @@
 # Hello world! 🌍🚀  
 
 ```bash
-> Welcome to Nataliia Kulieshova's GitHub!  
-> Initializing... 🔍  
-> Running "cat about_me.txt"... ✅
+$ whoami
+
+Nataliia Kulieshova — junior @ UC Berkeley (CS + Cognitive Science)
+Focus: machine learning • computational neuroscience • brain–computer interfaces
 ```
 
 My name is **Nataliia**. I am a junior at UC Berkeley, double-majoring in Computer Science and Cognitive Science (Go Bears! 🐻). I am passionate about machine learning, computational neuroscience, brain-computer interfaces, and all the other nerdy things. I am excited about using technology to make our world more inclusive to people with different cognitive and neurological abilities 🧠✨. In my free time, you'll find me either reading, swimming, running, baking, or writing for my STEM blog. Do you want to connect further? Shoot me an email!
@@ -34,24 +35,21 @@ My name is **Nataliia**. I am a junior at UC Berkeley, double-majoring in Comput
 
 ## 🚀 My Experiences So Far:
 ```bash
-> Running "cat experience.log"...
+> open nataliia.experiences
 ```
+- **🚗 SWE Intern @ Uber (summer 2025):** Designed and implemented an Apache Lucene-based KNN query optimization in Uber’s search platform; projected to reduce CPU-related costs by up to 40% (~$5.6M annually)
 - **🚗 SWE Intern @ Uber (summer 2025):** Designed and implemented an Apache Lucene-based KNN query optimization in Uber’s search platform; projected to reduce CPU-related costs by up to 40% (~$5.6M annually)
 - **🚗 SWE Intern @ Uber (summer 2024):** Developed security functionality for the search platform, impacting over 50 customer teams across various Uber services
 - **🧠 MLE Intern @ Brightside Health:** Developed a structured, queryable knowledge graph for evidence-based treatment plans and clinical research.
 - **🇺🇦 AI Intern @ Ministry of Digital Transformation of Ukraine:** Conducted research on machine learning methodologies to analyze and interpret big data in the public sector, optimizing decision-making processes within the Ukrainian government
-- **🌏 Global Impact Projects:** Led initiatives funded by **UNICEF**, **USAID**, and the **Japanese government**, creating tech solutions for providing accessibility for deaf and hard of hearing communities in public places.  
-
 ---
 
 ## 📡 Contact Protocols:
 ```bash
-> Connecting to Nataliia's social APIs...
+$ open nataliia.contact
 ```
-- 💼 [LinkedIn](https://linkedin.com/in/nkulieshova)  
-- 📫 nataliia.kulieshova@berkeley.edu
+- LinkedIn -> linkedin.com/in/nkulieshova
+- Email -> nataliia.kulieshova@berkeley.edu
 
----
-```bash
-> echo "Let’s build something awesome together! ☺️"  
-```
+If you made it this far, here’s a fun fact about rats:
+Rats are ticklish and exhibit behaviors similar to human joy, emitting high-pitched ultrasonic "giggles" when tickled!!
