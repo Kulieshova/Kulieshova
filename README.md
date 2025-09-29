@@ -38,7 +38,6 @@ My name is **Nataliia**. I am a junior at UC Berkeley, double-majoring in Comput
 > open nataliia.experiences
 ```
 - **🚗 SWE Intern @ Uber (summer 2025):** Designed and implemented an Apache Lucene-based KNN query optimization in Uber’s search platform; projected to reduce CPU-related costs by up to 40% (~$5.6M annually)
-- **🚗 SWE Intern @ Uber (summer 2025):** Designed and implemented an Apache Lucene-based KNN query optimization in Uber’s search platform; projected to reduce CPU-related costs by up to 40% (~$5.6M annually)
 - **🚗 SWE Intern @ Uber (summer 2024):** Developed security functionality for the search platform, impacting over 50 customer teams across various Uber services
 - **🧠 MLE Intern @ Brightside Health:** Developed a structured, queryable knowledge graph for evidence-based treatment plans and clinical research.
 - **🇺🇦 AI Intern @ Ministry of Digital Transformation of Ukraine:** Conducted research on machine learning methodologies to analyze and interpret big data in the public sector, optimizing decision-making processes within the Ukrainian government
@@ -52,4 +51,4 @@ $ open nataliia.contact
 - Email -> nataliia.kulieshova@berkeley.edu
 
 If you made it this far, here’s a fun fact about rats:
-Rats are ticklish and exhibit behaviors similar to human joy, emitting high-pitched ultrasonic "giggles" when tickled!!
+Rats are ticklish and exhibit behaviors similar to human joy, emitting high-pitched ultrasonic "giggles" when tickled!! 🐀
