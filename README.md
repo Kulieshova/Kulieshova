@@ -55,7 +55,7 @@ My name is **Nataliia**. I am a junior at UC Berkeley, double-majoring in Comput
   
 - **🌳 SWE @ Blueprint:** As a part of the [Blueprint club at Berkeley](https://calblueprint.org/), I am building [a web app](https://github.com/calblueprint/amigos-de-los-rios) to optimize and support volunteer tree-watering operations for [Amigos De Los Ríos non-profit](https://amigosdelosrios.org/).
   
-- **🔥 SWE @ BurnAI:** Building an AI-powered platform for immersive public speaking practice
+- **🔥 SWE @ [BurntAI](https://github.com/BurntAI):** Building an AI-powered platform for immersive public speaking practice
 ---
 
 ## 📡 Contact Protocols:
