@@ -1,4 +1,4 @@
-# Hello world! 🌍🚀  
+# Hey there :)
 
 ```bash
 $ whoami
@@ -37,10 +37,25 @@ My name is **Nataliia**. I am a junior at UC Berkeley, double-majoring in Comput
 ```bash
 > open nataliia.experiences
 ```
-- **🚗 SWE Intern @ Uber (summer 2025):** Designed and implemented an Apache Lucene-based KNN query optimization in Uber’s search platform; projected to reduce CPU-related costs by up to 40% (~$5.6M annually)
-- **🚗 SWE Intern @ Uber (summer 2024):** Developed security functionality for the search platform, impacting over 50 customer teams across various Uber services
-- **🧠 MLE Intern @ Brightside Health:** Developed a structured, queryable knowledge graph for evidence-based treatment plans and clinical research.
+- **🚗 SWE Intern @ Uber (summer 2025):** Designed and implemented an Apache Lucene-based KNN query optimization in Uber’s search platform; projected to reduce CPU-related costs by up to 40% (~$5.6M annually). Cut p99.9 latency by 38% (130 ms → 80 ms) at ~350 QPS on a critical vector search use case by adding a configurable exact-search path in Lucene/HNSW to skip ANN attempt/fallback when filters are highly selective.
+  
+- **🚗 SWE Intern @ Uber (summer 2024):** Built authN/authZ for Uber’s Lucene-based search platform, adding role- and context-aware authorization with a custom, domain-driven policy model; secured sensitive index/query access for 50+ teams across Health, Eats, and Fulfillment.
+  
+- **🧠 MLE Intern @ Brightside Health:** Shipped a clinician-facing RAG web app in Python + LangChain on GCP that converts therapist-uploaded PDFs into a searchable, citation-linked knowledge graph; built an end-to-end NLP/IE pipeline (parsing, entity/relation extraction, normalization) with LLM guardrails, persisted in MongoDB, and delivered React + Cytoscape.js interactive graph UI with typed search APIs; validated on a hand-labeled eval set (86% accuracy, 81.8% precision).
+  
 - **🇺🇦 AI Intern @ Ministry of Digital Transformation of Ukraine:** Conducted research on machine learning methodologies to analyze and interpret big data in the public sector, optimizing decision-making processes within the Ukrainian government
+
+## 🔥 What I Am Up To Right Now:
+```bash
+> open nataliia.currently
+```
+- **🏥 ML Researcher @ UCSF:** Developing an agentic AI system that integrates fMRI clinical data and LLMs for neurodegenerative disease diagnosis. (NeuroAI lab, advised by Dr. Pedro Pinheiro-Chagas). -- Think "Cursor" for clinicians. 
+  
+- **😴 ML Researcher @ Center for Human Sleep Science:** Modeling fMRI spectral signatures of sleep in healthy adults (Walker lab, advised by Dr. Omer Sharon). 
+  
+- **🌳 SWE @ Blueprint:** As a part of the [Blueprint club at Berkeley](https://calblueprint.org/), I am building [a web app](https://github.com/calblueprint/amigos-de-los-rios) to optimize and support volunteer tree-watering operations for [Amigos De Los Ríos non-profit](https://amigosdelosrios.org/).
+  
+- **🔥 SWE @ BurnAI:** Building an AI-powered platform for immersive public speaking practice
 ---
 
 ## 📡 Contact Protocols:
