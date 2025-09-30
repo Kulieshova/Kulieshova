@@ -9,6 +9,8 @@ Focus: machine learning • computational neuroscience • brain–computer inte
 
 My name is **Nataliia**. I am a junior at UC Berkeley, double-majoring in Computer Science and Cognitive Science (Go Bears! 🐻). I am passionate about machine learning, computational neuroscience, brain-computer interfaces, and all the other nerdy things. I am excited about using technology to make our world more inclusive to people with different cognitive and neurological abilities 🧠✨. In my free time, you'll find me either reading, swimming, running, baking, or writing for my STEM blog. Do you want to connect further? Shoot me an email!
 
+#### Are you a recruiter?
+Check out my current CV here: [click me](https://drive.google.com/file/d/1MATQwm40JcuZ8HOiGHcpv5wWJYCJe5k5/view?usp=sharing)
 ### 💻 Skills Unlocked:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
@@ -58,7 +60,7 @@ My name is **Nataliia**. I am a junior at UC Berkeley, double-majoring in Comput
 - **🔥 SWE @ [BurntAI](https://github.com/BurntAI):** Building an AI-powered platform for immersive public speaking practice
 ---
 
-## 📡 Contact Protocols:
+## Let's chat!:
 ```bash
 $ open nataliia.contact
 ```
