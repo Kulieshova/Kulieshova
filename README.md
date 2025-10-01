@@ -35,7 +35,7 @@ Check out my current CV here: [click me](https://drive.google.com/file/d/1MATQwm
 
 ---
 
-## 🚀 My Experiences So Far:
+## 🚀 My experiences so far:
 ```bash
 > open nataliia.experiences
 ```
@@ -47,7 +47,7 @@ Check out my current CV here: [click me](https://drive.google.com/file/d/1MATQwm
   
 - **🇺🇦 AI Intern @ Ministry of Digital Transformation of Ukraine:** Conducted research on machine learning methodologies to analyze and interpret big data in the public sector, optimizing decision-making processes within the Ukrainian government
 
-## 🔥 What I Am Up To Right Now:
+## 🔥 What I'm up to right now:
 ```bash
 > open nataliia.currently
 ```
