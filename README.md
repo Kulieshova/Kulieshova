@@ -64,7 +64,7 @@ Check out my current CV here: [click me](https://drive.google.com/file/d/1MATQwm
 ```bash
 $ open nataliia.contact
 ```
-- LinkedIn -> linkedin.com/in/nkulieshova
+- LinkedIn -> [linkedin.com/in/nkulieshova](https://www.linkedin.com/in/nkulieshova/)
 - Email -> nataliia.kulieshova@berkeley.edu
 
 If you made it this far, here’s a fun fact about rats:
