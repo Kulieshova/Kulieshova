@@ -1,9 +1,9 @@
-# Hey there 👋
+# Hey there 👀
 
-I'm a junior at **UC Berkeley**, double-majoring in **Computer Science** and **Cognitive Science**.
-Most of my time is spent exploring the intersection of **machine learning**, **infrastructure**, and **computational neuroscience**, building systems that bridge code and cognition 🧠⚙️.
+My name is Nataliia. I'm a junior at **UC Berkeley**, double-majoring in **Computer Science** and **Cognitive Science**.
+Most of my time is spent exploring the intersection of **machine learning**, **infrastructure**, and **computational neuroscience**, building systems that bridge code and cognition and help make our world more inclusive 🧠⚙️.
 
-I’ve previously worked as a **Software Engineer intern at Uber** on the Search team (x2), a **Machine Learning Fellow at Brightside Health**, and an **AI Intern at the Ministry of Digital Transformation of Ukraine**.
+Previously, I’ve worked as a **Software Engineer intern at Uber** (x2), a **Machine Learning Fellow at Brightside Health**, and an **AI Intern at the Ministry of Digital Transformation of Ukraine**.
 
 Currently working on:
 
