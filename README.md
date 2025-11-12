@@ -15,6 +15,6 @@ Currently working on:
 
 💗 I love brain-computer interfaces, elegant infra, and bad puns about neural nets.
 
-💗 Outside of work, I run, swim, play a bunch of board games, bake, and write about neuroscience and AI for fun.
+💗 Outside of work, I run, swim, play a bunch of board games, bake, read, and write about neuroscience and AI for fun.
 
 📬 [LinkedIn](https://www.linkedin.com/in/nkulieshova/) | 📄 [CV](https://drive.google.com/file/d/1MATQwm40JcuZ8HOiGHcpv5wWJYCJe5k5/view?usp=sharing) | ✉️ [Email](mailto:nataliia.kulieshova@berkeley.edu)
