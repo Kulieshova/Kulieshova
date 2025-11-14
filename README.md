@@ -12,7 +12,6 @@ Currently working on:
 * 😴 **Center for Human Sleep Science** — modeling fMRI spectral signatures of sleep
 * 🌳 **Blueprint @ Berkeley** — building a volunteer management app for *Amigos De Los Ríos* non-profit
 * 🪄 **EEG Sorting Hat** — a real-life Hogwarts hat that uses brain signals and eye tracking to sort you into houses
-* 🔥 **BurntAI** — immersive public-speaking practice powered by LLMs
 
 💗 I love brain-computer interfaces, infra, and machine learning.
 
